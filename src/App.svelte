@@ -15,6 +15,9 @@
     import exercicio13 from "./exercicio13.svelte"
     import exercicio14 from "./exercicio14.svelte"
     import exercicio15 from "./exercicio15.svelte"
+    import exercicio16a from "./exercicio16a.svelte"
+    import exercicio17 from "./exercicio17.svelte"
+    
 </script>
 
 <Router routes={{
@@ -32,5 +35,7 @@
     "/exercicio12": exercicio12,
     "/exercicio13": exercicio13,
     "/exercicio14": exercicio14,
-    "/exercicio15": exercicio15
+    "/exercicio15": exercicio15,
+    "/exercicio16a": exercicio16a,
+    "/exercicio17": exercicio17
 }}></Router>
