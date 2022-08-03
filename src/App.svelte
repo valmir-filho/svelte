@@ -17,7 +17,16 @@
     import exercicio15 from "./exercicio15.svelte"
     import exercicio16a from "./exercicio16a.svelte"
     import exercicio17 from "./exercicio17.svelte"
-    
+    import exercicio18 from "./exercicio18.svelte"
+    import exercicio19 from "./exercicio19.svelte"
+    import exercicio20a from "./exercicio20a.svelte"
+    import exercicio21a from "./exercicio21a.svelte"
+    import exercicio22a from "./exercicio22a.svelte"
+    import exercicio23 from "./exercicio23.svelte"
+    import exercicio24 from "./exercicio24.svelte"
+    import exercicio25 from "./exercicio25.svelte"
+    import exercicio26 from "./exercicio26.svelte"
+    import exercicio27 from "./exercicio27.svelte"
 </script>
 
 <Router routes={{
@@ -37,5 +46,15 @@
     "/exercicio14": exercicio14,
     "/exercicio15": exercicio15,
     "/exercicio16a": exercicio16a,
-    "/exercicio17": exercicio17
+    "/exercicio17": exercicio17,
+    "/exercicio18": exercicio18,
+    "/exercicio19": exercicio19,
+    "/exercicio20a": exercicio20a,
+    "/exercicio21a": exercicio21a,
+    "/exercicio22a": exercicio22a,
+    "/exercicio23": exercicio23,
+    "/exercicio24": exercicio24,
+    "/exercicio25": exercicio25,
+    "/exercicio26": exercicio26,
+    "/exercicio27": exercicio27
 }}></Router>
