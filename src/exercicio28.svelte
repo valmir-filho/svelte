@@ -1,0 +1,17 @@
+<script>
+    let html = "Escreva alguma coisa: ";
+</script>
+
+<div contenteditable="true" 
+bind:innerHTML={html}
+></div>
+
+<pre>{html}</pre>
+
+<style>
+    [contenteditable] {
+        padding: 0.5em;
+        border: 1px solid #eee;
+        border-radius: 4px;
+    }
+</style>
