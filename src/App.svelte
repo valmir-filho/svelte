@@ -35,6 +35,14 @@
   import exercicio33a from "./exercicio33a.svelte"
   import exercicio34a from "./exercicio34a.svelte"
   import exercicio35 from "./exercicio35.svelte"
+  import exercicio36 from "./exercicio36.svelte"
+  import exercicio37a from "./exercicio37a.svelte"
+  import exercicio38a from "./exercicio38a.svelte"
+  import exercicio39 from "./exercicio39.svelte"
+  import exercicio40 from "./exercicio40.svelte"
+  import exercicio41 from "./exercicio41.svelte"
+  import exercicio42 from "./exercicio42.svelte"
+  import exercicio43 from "./exercicio43.svelte"
 </script>
 
 <Router routes={{
@@ -72,5 +80,13 @@
   "/exercicio32": exercicio32,
   "/exercicio33a": exercicio33a,
   "/exercicio34a": exercicio34a,
-  "/exercicio35": exercicio35
+  "/exercicio35": exercicio35,
+  "/exercicio36": exercicio36,
+  "/exercicio37a": exercicio37a,
+  "/exercicio38a": exercicio38a,
+  "/exercicio39": exercicio39,
+  "/exercicio40": exercicio40,
+  "/exercicio41": exercicio41,
+  "/exercicio42": exercicio42,
+  "/exercicio43": exercicio43
 }}></Router>
