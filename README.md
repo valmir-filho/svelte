@@ -1,3 +1,3 @@
-Repositório de exercícios do site svelt.dev.
+# Repositório de exercícios do site svelt.dev.
 
-IDE utilizada: Visual Studio Code.
+### IDE utilizada: Visual Studio Code.
